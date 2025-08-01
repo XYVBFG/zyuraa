@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@hapi/boom": "^10.0.1",
-    "@whiskeysockets/baileys": "github:LumnzTyz/Lummandi-bailyes",
+    "@whiskeysockets/baileys": "github:kiuur/bails",
     "axios": "^1.6.7",
     "crypto-js": "^4.2.0",
     "express": "^4.17.1",
