@@ -12,7 +12,7 @@
     "crypto-js": "^4.2.0",
     "express": "^4.17.1",
     "fs-extra": "^11.2.0",
-    "jimp": "^0.22.12",
+    "jimp": "0.16.13", 
     "node-fetch": "^2.6.11",
     "node-telegram-bot-api": "^0.61.0",
     "pino": "^8.15.0",
